@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/ChrisTEKO/weather"
+)
 
 func main() {
 	fmt.Printf("Weather package version: %s\n", weather.GetVersion())
